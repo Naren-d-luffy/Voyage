@@ -1,0 +1,82 @@
+.body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    background-color: rgb(24, 23, 23);
+    height: 25px;
+    border: 0;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading{
+    color: red;
+    font-family:"IBM Plex Serif",serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.image{
+    padding:50px;
+    width: 250px;
+}
+
+.whole{
+    background-color: rgba(54, 53, 53, 1);
+    width: 1200px;
+    margin-left: 160px;
+    display: flex;
+}
+
+h2{
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    font-family:"IBM Plex Serif",serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.dis{
+    color: rgba(184, 177, 177, 1);
+    font-family: "Lato",sans-serif;
+    padding-right: 30px;    
+}
+
+.text{
+    padding: 40px;
+}
+
+h3{
+   
+    color: rgba(161, 155, 155, 1);
+    font-family:"IBM Plex Serif",serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+a{
+    width: 1100px;
+    margin-left: 160px;
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    background-color: rgb(24, 23, 23);
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    font-family: "Lato",sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: rgba(54, 53, 53, 1);
+    color: rgba(184, 177, 177, 1);;
+    
+}

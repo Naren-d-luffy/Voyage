@@ -1,0 +1,52 @@
+Fiction:
+
+name, work id, author, img, rating
+
+Mystery & Thriller:
+
+('A Good Girl's Guide to Murder','https://openlibrary.org/works/OL20646061W.json','Holly Jackson','https://rukminim2.flixcart.com/image/850/1000/kz5vwy80/book/z/5/o/a-good-girl-s-guide-to-murder-original-imagb842qzjrngmx.jpeg?q=90&crop=false','5'),
+('Good Girl, Bad Blood','https://openlibrary.org/works/OL21084352W.json','Holly Jackson','https://m.media-amazon.com/images/I/61Qfno5VlTL._AC_UF1000,1000_QL80_.jpg','5'),
+('As Good As Dead','https://openlibrary.org/works/OL24236112W.json','Holly Jackson','https://m.media-amazon.com/images/I/71+j4Cue3pL._AC_UF1000,1000_QL80_.jpg','5'),
+('Gone Girl','https://openlibrary.org/works/OL16239762W.json','Gillian Flynn','https://m.media-amazon.com/images/I/71+khXHbe5L._AC_UF1000,1000_QL80_.jpg','4'),
+('The Silent Patient','https://openlibrary.org/works/OL19096402W.json','Alex Michaelides','https://m.media-amazon.com/images/I/81JJPDNlxSL._AC_UF1000,1000_QL80_.jpg','4'),
+('Never Never','https://openlibrary.org/works/OL20043548W.json','James Patterson','https://m.media-amazon.com/images/I/91FQQcX0eVL._AC_UF1000,1000_QL80_.jpg','3'),
+('Girl Who Disappeared','https://openlibrary.org/works/OL28015454W.json','Vikrant Khanna','https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583333854i/52083303.jpg','1'),
+('Girl Who Knew Too Much','https://openlibrary.org/works/OL24617373W.json','Vikrant Khanna','https://m.media-amazon.com/images/I/71fHcsKPnXL._AC_UF1000,1000_QL80_.jpg','1');
+
+Historical Fiction & Mythology:
+
+('To kill a Mockingbird','https://openlibrary.org/works/OL3140822W.json','Harper Lee','https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg','4'),
+('Raavanputr Meghnad','https://openlibrary.org/works/OL24291554W.json','Kevin Missal','https://m.media-amazon.com/images/I/51GVZa3pvZL.jpg','2'),
+('Vanara','https://openlibrary.org/works/OL24321206W.json','Anand Neelakantan','https://m.media-amazon.com/images/I/91y2GPlWl7L._AC_UF1000,1000_QL80_.jpg','4'),
+('The Rise of Sivagami','https://openlibrary.org/works/OL17712001W.json','Anand Neelakantan','https://upload.wikimedia.org/wikipedia/en/3/32/The_Rise_of_Sivagami_cover.jpg','4'),
+('Rozabal Line','https://openlibrary.org/works/OL26428056W.json','Ashwin Sanghi','https://m.media-amazon.com/images/I/71lVNJhQn8L._AC_UF1000,1000_QL80_.jpg','3'),
+('Battle For Bittora','https://openlibrary.org/works/OL15897581W.json','Anuja Chauhan','https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FBattle-Bittora-Indias-Passionate-Loksabha-ebook%2Fdp%2FB00BL04W48&psig=AOvVaw2r7pyb25YD3_IymNaZiieY&ust=1719565621086000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDA06G3-4YDFQAAAAAdAAAAABAE','3'),('Baaz','https://openlibrary.org/works/OL27468891W.json','Anuja Chauhan','https://m.media-amazon.com/images/I/51ICAJlIbzL._AC_UF1000,1000_QL80_.jpg','4'),
+('Asura','https://openlibrary.org/works/OL23380679W.json','Anand Neelakantan','https://m.media-amazon.com/images/I/81qDstdPqvL._AC_UF1000,1000_QL80_.jpg','4'),
+('Raavan:Enemy of Aryavarta','https://openlibrary.org/works/OL20907221W.json','Amish Tripathi','https://m.media-amazon.com/images/I/91B1dVwxB-L._AC_UF1000,1000_QL80_.jpg','4'),
+('Sita:Warrior of Mithila','https://openlibrary.org/works/OL17752993W.json','Amish Tripathi','https://m.media-amazon.com/images/I/81diX2hAH2L._AC_UF1000,1000_QL80_.jpg','4'),
+('Ram-Scion of Ikshvaku','https://openlibrary.org/works/OL20708576W.json','Amish Tripathi','https://m.media-amazon.com/images/I/91ay4wXGKsL._AC_UF1000,1000_QL80_.jpg','4'),
+('The Oath of the Vayuputras','https://openlibrary.org/works/OL16802902W.json','Amish Tripathi','https://m.media-amazon.com/images/I/81vZCuRX6-L._AC_UF1000,1000_QL80_.jpg','5'),
+('The Secret of the Nagas','https://openlibrary.org/works/OL16091708W','Amish Tripathi','https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FSecret-Nagas-Shiva-Trilogy-Book%2Fdp%2F9356290601&psig=AOvVaw3Ox33P950ah5eNlAjDhZnB&ust=1719566445802000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjf86q6-4YDFQAAAAAdAAAAABAE','4'),
+('The Immortals of Meluha','https://openlibrary.org/works/OL15914981W.json','Amish Tripathi','https://upload.wikimedia.org/wikipedia/en/0/0e/The_Immortals_Of_Meluha.jpg','4');
+
+Fantasy:
+
+('The Girl Who Drank the Moon','https://openlibrary.org/works/OL17627845W.json','Kelly Barnhill','https://m.media-amazon.com/images/I/7138zaESFhL._AC_UF350,350_QL50_.jpg'),
+('A Game of Thrones','https://openlibrary.org/works/OL257943W.json','George R.R. Martin','https://detec.in/cdn/shop/products/11_0e93ad54-b473-44e5-a7e0-e838d205583d_300x300.jpg?v=1625575772'),
+('A Clash of Kings','https://openlibrary.org/works/OL257939W.json','George R.R. Martin','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExSKHKDltIieAqVBk8GDH9zeGXvg-IsejIMYI8RoGpElMBa8AW3sBsriFvvR-Rjtah24&usqp=CAU'),
+('A Strom of Swords: Steel and Snow & Blood and Gold','https://openlibrary.org/works/OL257914W.json','George R.R. Martin','https://m.media-amazon.com/images/I/818-tn7kU9L._AC_UF1000,1000_QL80_.jpg')
+
+Romance:
+
+('It Ends With us','https://openlibrary.org/works/OL18020194W.json','Cooleen Hoover','https://m.media-amazon.com/images/I/813aV273-rL._AC_UF1000,1000_QL80_.jpg','3'),
+('It Starts with Us','https://openlibrary.org/works/OL27733867W.json','Cooleen Hoover','https://m.media-amazon.com/images/I/81FummIc2eL._AC_UF1000,1000_QL80_.jpg','2'),
+('2 States','https://openlibrary.org/works/OL15029319W.json','Chetan Bhagat','https://m.media-amazon.com/images/I/81ApqY6HZlL._AC_UF1000,1000_QL80_.jpg','3'),
+('The Boy Who Loved','https://openlibrary.org/works/OL24784885W.json','Durjoy Dutta','https://m.media-amazon.com/images/I/71c7Kmms6kL._AC_UF1000,1000_QL80_.jpg','3'),
+('The Boy with a Broken Heart','https://openlibrary.org/works/OL24784885W.json','Durjoy Dutta','https://m.media-amazon.com/images/I/51oSKQAyzJL.jpg','3'),
+('Can Love Happen Twice?','https://openlibrary.org/works/OL16586187W.json','Ravinder Singh','https://m.media-amazon.com/images/I/81APp2BhAKL._AC_UF1000,1000_QL80_.jpg','2'),
+('I too Had a Love Story','https://openlibrary.org/works/OL16793664W.json','Ravinder Singh','https://rukminim2.flixcart.com/image/612/612/xif0q/book/h/a/u/i-too-had-a-love-story-original-imagu7s93gqdsmgp.jpeg','4'),
+('Everyone Has a Story 2,'https://openlibrary.org/works/OL22705222W.json','Savi Sharma','https://m.media-amazon.com/images/I/91+hsYIz8uL._AC_UF1000,1000_QL80_.jpg','1'),
+('Everyone Has a Story','https://openlibrary.org/works/OL22705222W.json','Savi Sharma','https://m.media-amazon.com/images/I/61G0Y7RTI5L._AC_UF1000,1000_QL80_.jpg','2'),
+('Five Point Someone,'https://openlibrary.org/works/OL5762090W.json','Chetan Bhagat','https://m.media-amazon.com/images/I/71dFdtt1+UL._AC_UF1000,1000_QL80_.jpg','4'),
+('The 3 Mistakes of My Life','https://openlibrary.org/works/OL5762086W.json','Chetan Bhagat','https://upload.wikimedia.org/wikipedia/en/1/1d/3_Mistakes_of_My_Life.jpg','3');
+
